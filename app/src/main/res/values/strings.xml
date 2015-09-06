@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ButtonRush Versus</string>
+
+    <string name="hello_world">Press Start</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_push"></string>
+    <string name="button_start">Start</string>
+</resources>
